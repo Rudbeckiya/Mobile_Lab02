@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">lab01</string>
+    <string name="btn_add">add</string>
+    <string name="btn_sub">sub</string>
+    <string name="btn_nul">nul</string>
+    <string name="btn_div">div</string>
+    <string name="result">...</string>
+    <string name="btn_sin">Sin</string>
+    <string name="btn_cos">Cos</string>
+    <string name="btn_tan">Tan</string>
+    <string name="btn_square_root">Root</string>
+    <string name="btn_degree">Degree</string>
+</resources>
